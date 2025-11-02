@@ -30,3 +30,27 @@
 *.exe
 *.out
 *.app
+
+# Ignore Visual Studio build files and cache
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.suo
+*.user
+*.cache
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+*.db
+*.db-wal
+*.db-shm
+
